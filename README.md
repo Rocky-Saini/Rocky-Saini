@@ -51,9 +51,9 @@ A 20Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Rocky-Saini&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=Subhampreet&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Rocky-Sainit&theme=dark" width="45%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Subhampreet&theme=dark" width="45%" >
 
 <br>
 
