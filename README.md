@@ -68,7 +68,7 @@ A 20Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rockysaini/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/thenameisrocky____/?fbclid=IwAR2QPaSlYZ8u9Y82C0Z0CCx-ncT6tQhDNe-0sOyKpCi2XCvX2-9hT3IfXSs)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100022112112570)
-[<img src="https://img.shields.io/badge/stackoverflow-%231877F2.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=orange">](https://twitter.com/RockySa82225621?s=08)
+[<img src="https://img.shields.io/badge/stackoverflow-%231877F2.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=orange">](https://stackoverflow.com/users/16854158/rocky-saini)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](http://www.codesefod.com)
 <a href="https://www.youtube.com/channel/UC7q4YE9X5dPfNwHzdHD-KMg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="khushboo goel" height="30" width="40" /></a>
 
