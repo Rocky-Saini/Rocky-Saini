@@ -24,15 +24,14 @@ A 20Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 ## 👨‍💻 Languages and Tools
 
 <div align="center">
-  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank">
-<img src="https://github.com/Rocky-Saini/Rocky-Saini/blob/master/logos/python.png?raw=true" height="60" width="60">
-<img src="https://github.com/Rocky-Saini/Rocky-Saini/blob/master/logos/JS.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/c++.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/python.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
 <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
-<img src="https://github.com/Rocky-Saini/Rocky-Saini/blob/master/logos/next.png?raw=true" height="60" width="60">
-<img src="https://github.com/Rocky-Saini/Rocky-Saini/blob/master/logos/css.png?raw=true" height="60" width="60">
-<img src="https://github.com/Rocky-Saini/Rocky-Saini/blob/master/logos/html.png?raw=true" height="60" width="60">
-<img src="https://github.com/Rocky-Saini/Rocky-Saini/blob/master/logos/django.jpg?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/next.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/django.jpg?raw=true" height="60" width="60">
 <img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
 
 <br>
