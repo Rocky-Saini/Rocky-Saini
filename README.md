@@ -10,14 +10,14 @@ A 20Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 ![age](https://img.shields.io/badge/age-20-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
-![living](https://img.shields.io/badge/living-Bhubaneswar-3c9)
+![living](https://img.shields.io/badge/living-Delhi-3c9)
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 I’m currently learning Java,c++, NodeJs, Python and ReactJs
 - 👯 I’m looking to collaborate on Java Development,Python projects and Basic Web Dev stuff
 - 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/thenameisrocky____/?fbclid=IwAR2QPaSlYZ8u9Y82C0Z0CCx-ncT6tQhDNe-0sOyKpCi2XCvX2-9hT3IfXSs) 
-- 📫 How to reach me **rockysainig@gmail.com**
+- 📫 How to reach me **rocky.saini.java@gmail.com**
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 <br />
