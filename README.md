@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm a Software and Web Developer from India ❤</h3>
   
-A 20Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+A 20Y/O Software🌈 and Web developer🎯 from India. I'm passionate aboutJava Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="Rocky-Saini" /> </p>
 
 
@@ -14,10 +14,10 @@ A 20Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning Java,c++, NodeJs, Python and ReactJs
-- 👯 I’m looking to collaborate on Java Development,Python projects and Basic Web Dev stuff
+- 🌱 I’m currently working on Java, Spring boot , Microservices , Mysql , html , css , javascript , angular , docker , kubernetes , jenkins etc.
+- 👯 I’m looking to collaborate on Java Development, Web projects and Healthcare , banking etc.
 - 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/thenameisrocky____/?fbclid=IwAR2QPaSlYZ8u9Y82C0Z0CCx-ncT6tQhDNe-0sOyKpCi2XCvX2-9hT3IfXSs) 
-- 📫 How to reach me **rocky.saini.java@gmail.com**
+- 📫 How to reach me **rockysaini2122@gmail.com**
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 <br />
